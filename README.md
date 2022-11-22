@@ -75,6 +75,7 @@ MPJPE for all hand sequences: 8.64
 MPVPE for all hand sequences: 9.59
 ```
 And the auc is calcuated.
+
 ![auc](assets/pck.jpg)
 
 # 5. Citation
