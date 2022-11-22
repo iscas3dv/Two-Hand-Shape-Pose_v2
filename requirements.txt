@@ -1,0 +1,13 @@
+numpy>=1.16.2
+opencv_python
+tqdm
+pyrender
+torchgeometry>=0.1.2
+PyYAML==5.1.1
+configargparse
+smplx
+pillow
+trimesh
+matplotlib
+pycocotools
+chumpy
