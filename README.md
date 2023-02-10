@@ -100,7 +100,7 @@ Image samples in `demo/test_data/` are from [InterHand2.6M](https://mks0601.gith
 We thank the authors of InterHand, InterNet, InterHand2.6M, mano prediction block and mano layer for their great works.
 
 # 7. Contact Information
-For any questions, feel free to contact: 947976219@qq.com, xiaoming@iscas.ac.cn
+For any questions, feel free to contact: 947976219@qq.com, 1047512531@qq.com, xiaoming@iscas.ac.cn
 
 
 
