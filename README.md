@@ -45,7 +45,7 @@ Go to `demo/` and run the code
 ```
 python demo.py --test_epoch 99
 ```
-The model will predict hand shapes from images in `test_folder/`. The estimated meshes are saved as obj files in `test_data/`.
+The model will predict hand shapes from images and estimate meshes in `test_folder/`.
 
 # 3. Training
 Download [InterHand2.6M](https://mks0601.github.io/InterHand2.6M/) dataset.
